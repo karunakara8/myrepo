@@ -8,6 +8,6 @@ do
 	rev=$rev$temp
 	count=`expr $count - 1`
 done
-echo "triggered from webhook"
+echo "poll trigger"
 echo $rev
 
