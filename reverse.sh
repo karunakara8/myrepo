@@ -8,6 +8,6 @@ do
 	rev=$rev$temp
 	count=`expr $count - 1`
 done
-echo "poll trigger, lets win it forever"
+echo "poll trigger, lets win it forever, good one"
 echo $rev
 
